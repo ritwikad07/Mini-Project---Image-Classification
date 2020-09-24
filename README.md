@@ -1,4 +1,4 @@
 # Mini-Project---Image-Classification
 
 
-Dataset link: https://drive.google.com/drive/folders/1-UWjmvzEoN0MDrIV9e6oGB7iv0t7W5i7?usp=sharing
+Dataset link: https://colab.research.google.com/drive/1hlQLdSNYAZAFfmNYo1Alfh0RNEiDuS2V?usp=sharing
